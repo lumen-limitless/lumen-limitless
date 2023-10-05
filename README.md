@@ -5,9 +5,9 @@ glimpse of my skills and projects.
 
 ## Skills
 
-- **Languages**: TypeScript, JavaScript, Rust
+- **Languages**: TypeScript, JavaScript, Solidity, Rust
 - **Frontend**: React.js, Next.js, HTML, CSS
-- **Blockchain**: Solidity, Foundry, Hardhat
+- **Blockchain**: Foundry, Hardhat, Wagmi, Viem, Ethers
 
 ## Contact Me
 
